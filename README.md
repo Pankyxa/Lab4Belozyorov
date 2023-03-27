@@ -10,5 +10,4 @@
 `Для пользования программой следуйте инструкции в консоли.`
 
 #### Скриншоты выполнения программы для тестов:
-- `Тест 1`![image](https://user-images.githubusercontent.com/114245476/193460117-8954f0a9-ba17-4ecc-98db-fb707acaf665.png)
-- `Тест 2`![image](https://user-images.githubusercontent.com/114245476/193460179-f2d0618e-cb98-418c-9014-36f4ccb01739.png)
+![image](https://user-images.githubusercontent.com/114245476/228005131-5d362e41-a804-4220-b16b-801a81cdc31f.png)
